@@ -10,4 +10,8 @@ let num:number
 let activos:boolean
 let suma:number=num1+num2+num3
 
-console.log("la suma es: + suma")
+console.log("la suma es: "+ suma)
+
+let matricula:number|string
+matricula =123456789
+matricula=abcedfg
